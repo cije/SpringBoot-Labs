@@ -1,6 +1,7 @@
 package com.ce.lab4validation01.controller;
 
 import com.ce.lab4validation01.dto.UserAddDTO;
+import com.ce.lab4validation01.dto.UserUpdateDTO;
 import com.ce.lab4validation01.dto.UserUpdateGenderDTO;
 import com.ce.lab4validation01.dto.UserUpdateStatusDTO;
 import org.slf4j.Logger;
@@ -44,5 +45,10 @@ public class UserController {
     @PostMapping("/update_status_false")
     public void updateStatusFalse(@Validated(UserUpdateStatusDTO.Group02.class) UserUpdateStatusDTO updateStatusDTO) {
         logger.info("[updateStatusFalse][updateStatusDTO: {}]", updateStatusDTO);
+    }
+
+    @PostMapping("/update")
+    public void update(@Valid UserUpdateDTO updateDTO) {
+        logger.info("[update][updateDTO: {}]", updateDTO);
     }
 }
