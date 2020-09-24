@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/lab2/pom.xml" />
+        <option value="$PROJECT_DIR$/lab1/lab-1-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/lab1/lab-1-demo-profiles/pom.xml" />
+        <option value="$PROJECT_DIR$/lab1/lab1-demo-configname/pom.xml" />
+        <option value="$PROJECT_DIR$/lab1/lab1-demo-jasypt/pom.xml" />
+        <option value="$PROJECT_DIR$/lab1/pom.xml" />
+        <option value="$PROJECT_DIR$/lab2/lab-2-mapstruct-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/lab2/lab-2-mapstruct-demo-lombok/pom.xml" />
+        <option value="$PROJECT_DIR$/lab3/pom.xml" />
+        <option value="$PROJECT_DIR$/lab3/lab-springmvc-3-01/pom.xml" />
+        <option value="$PROJECT_DIR$/lab3/lab-springmvc-3-02/pom.xml" />
+        <option value="$PROJECT_DIR$/lab4/pom.xml" />
+        <option value="$PROJECT_DIR$/lab4/lab-4-validation-01/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

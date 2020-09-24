@@ -1,0 +1,7 @@
+spring:
+  profiles:
+    active: local
+  application:
+    name: demo-application
+server:
+  port: 7070
