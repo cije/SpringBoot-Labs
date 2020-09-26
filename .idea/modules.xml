@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/lab4/lab-4-validation-01/lab-4-validation-01.iml" filepath="$PROJECT_DIR$/lab4/lab-4-validation-01/lab-4-validation-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab5/lab-5-apidoc-swagger/lab-5-apidoc-swagger.iml" filepath="$PROJECT_DIR$/lab5/lab-5-apidoc-swagger/lab-5-apidoc-swagger.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab5/lab-5-apidoc-swagger-knife4j/lab-5-apidoc-swagger-knife4j.iml" filepath="$PROJECT_DIR$/lab5/lab-5-apidoc-swagger-knife4j/lab-5-apidoc-swagger-knife4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab6/lab-6-01/lab-6-01.iml" filepath="$PROJECT_DIR$/lab6/lab-6-01/lab-6-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab3/lab-springmvc-3-01/lab-springmvc-3-01.iml" filepath="$PROJECT_DIR$/lab3/lab-springmvc-3-01/lab-springmvc-3-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab3/lab-springmvc-3-02/lab-springmvc-3-02.iml" filepath="$PROJECT_DIR$/lab3/lab-springmvc-3-02/lab-springmvc-3-02.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab1/lab1.iml" filepath="$PROJECT_DIR$/lab1/lab1.iml" />
@@ -18,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/lab3/lab3.iml" filepath="$PROJECT_DIR$/lab3/lab3.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab4/lab4.iml" filepath="$PROJECT_DIR$/lab4/lab4.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab5/lab5.iml" filepath="$PROJECT_DIR$/lab5/lab5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab6/lab6.iml" filepath="$PROJECT_DIR$/lab6/lab6.iml" />
     </modules>
   </component>
 </project>
