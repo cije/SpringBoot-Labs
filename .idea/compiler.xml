@@ -7,6 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="lab-7-distributed-session-01" />
         <module name="lab-1-demo" />
         <module name="lab1-demo-configname" />
         <module name="lab-1-demo-profiles" />
@@ -19,6 +20,7 @@
         <module name="lab-5-apidoc-swagger" />
         <module name="lab1" />
         <module name="lab2" />
+        <module name="lab7" />
         <module name="lab-5-apidoc-swagger-knife4j" />
         <module name="lab-springmvc-3-02" />
         <module name="lab5" />
@@ -82,6 +84,7 @@
       <module name="lab-6-01" target="1.8" />
       <module name="lab-6-02" target="1.8" />
       <module name="lab-6-03" target="1.8" />
+      <module name="lab-7-distributed-session-01" target="1.8" />
       <module name="lab-springmvc-3-01" target="1.8" />
       <module name="lab-springmvc-3-02" target="1.8" />
       <module name="lab1" target="1.8" />
@@ -92,6 +95,7 @@
       <module name="lab4" target="1.8" />
       <module name="lab5" target="1.8" />
       <module name="lab6" target="1.8" />
+      <module name="lab7" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -107,6 +111,7 @@
       <module name="lab-6-01" options="-parameters" />
       <module name="lab-6-02" options="-parameters" />
       <module name="lab-6-03" options="-parameters" />
+      <module name="lab-7-distributed-session-01" options="-parameters" />
       <module name="lab-springmvc-3-01" options="-parameters" />
       <module name="lab-springmvc-3-02" options="-parameters" />
       <module name="lab1" options="" />

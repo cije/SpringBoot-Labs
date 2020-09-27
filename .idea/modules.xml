@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/lab6/lab-6-01/lab-6-01.iml" filepath="$PROJECT_DIR$/lab6/lab-6-01/lab-6-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab6/lab-6-02/lab-6-02.iml" filepath="$PROJECT_DIR$/lab6/lab-6-02/lab-6-02.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab6/lab-6-03/lab-6-03.iml" filepath="$PROJECT_DIR$/lab6/lab-6-03/lab-6-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab7/lab-7-distributed-session-01/lab-7-distributed-session-01.iml" filepath="$PROJECT_DIR$/lab7/lab-7-distributed-session-01/lab-7-distributed-session-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab3/lab-springmvc-3-01/lab-springmvc-3-01.iml" filepath="$PROJECT_DIR$/lab3/lab-springmvc-3-01/lab-springmvc-3-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab3/lab-springmvc-3-02/lab-springmvc-3-02.iml" filepath="$PROJECT_DIR$/lab3/lab-springmvc-3-02/lab-springmvc-3-02.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab1/lab1.iml" filepath="$PROJECT_DIR$/lab1/lab1.iml" />
@@ -22,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/lab4/lab4.iml" filepath="$PROJECT_DIR$/lab4/lab4.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab5/lab5.iml" filepath="$PROJECT_DIR$/lab5/lab5.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab6/lab6.iml" filepath="$PROJECT_DIR$/lab6/lab6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab7/lab7.iml" filepath="$PROJECT_DIR$/lab7/lab7.iml" />
     </modules>
   </component>
 </project>
