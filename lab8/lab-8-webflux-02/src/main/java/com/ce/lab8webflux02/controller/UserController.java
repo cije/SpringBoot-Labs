@@ -1,5 +1,7 @@
 package com.ce.lab8webflux02.controller;
 
+import com.ce.lab8webflux02.constants.ServiceExceptionEnum;
+import com.ce.lab8webflux02.core.exception.ServiceException;
 import com.ce.lab8webflux02.core.vo.CommonResult;
 import com.ce.lab8webflux02.vo.UserVO;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -89,4 +91,19 @@ public class UserController {
         return CommonResult.success(user);
     }
 
+    /**
+     * 测试抛出 NullPointerException 异常
+     */
+    @GetMapping("/exception-01")
+    public UserVO exception01() {
+        throw new NullPointerException("没有粗面鱼丸");
+    }
+
+    /**
+     * 测试抛出 ServiceException 异常
+     */
+    @GetMapping("/exception-02")
+    public UserVO exception02() {
+        throw new ServiceException(ServiceExceptionEnum.USER_NOT_FOUND);
+    }
 }

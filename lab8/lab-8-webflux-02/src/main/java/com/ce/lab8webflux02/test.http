@@ -1,1 +1,1 @@
-GET localhost:8080/users/get2?id=1
+GET localhost:8080/users/exception-02
