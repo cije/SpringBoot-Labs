@@ -20,6 +20,7 @@
         <module name="lab-5-apidoc-swagger" />
         <module name="lab4" />
         <module name="lab1" />
+        <module name="lab-8-webflux-02" />
         <module name="lab2" />
         <module name="lab-8-webflux-01" />
         <module name="lab7" />
@@ -121,6 +122,7 @@
       <module name="lab-7-distributed-session-02" options="-parameters" />
       <module name="lab-7-distributed-session-springsecurity" options="-parameters" />
       <module name="lab-8-webflux-01" options="-parameters" />
+      <module name="lab-8-webflux-02" options="-parameters" />
       <module name="lab-springmvc-3-01" options="-parameters" />
       <module name="lab-springmvc-3-02" options="-parameters" />
       <module name="lab1" options="" />
