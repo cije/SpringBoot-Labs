@@ -6,3 +6,4 @@ SpringBoot学习 from @YunaiV
 - Spring Boot 参数校验 Validation 入门 lab4
 - Swagger API文档  lab5
 - WebSocket lab6
+- Spring Session lab7
