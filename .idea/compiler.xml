@@ -9,8 +9,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="lab-7-distributed-session-02" />
         <module name="lab-7-distributed-session-01" />
-        <module name="lab-1-demo" />
         <module name="lab1-demo-configname" />
+        <module name="lab-8-webflux-redis" />
+        <module name="lab-8-webflux-mongodb" />
+        <module name="lab1-demo-jasypt" />
+        <module name="lab-1-demo" />
         <module name="lab-1-demo-profiles" />
         <module name="lab-6-02" />
         <module name="lab-4-validation-01" />
@@ -19,7 +22,6 @@
         <module name="lab3" />
         <module name="lab4" />
         <module name="lab-5-apidoc-swagger" />
-        <module name="lab-8-webflux-mongodb" />
         <module name="lab-8-webflux-02" />
         <module name="lab1" />
         <module name="lab2" />
@@ -29,7 +31,6 @@
         <module name="lab5" />
         <module name="lab-springmvc-3-02" />
         <module name="lab6" />
-        <module name="lab1-demo-jasypt" />
         <module name="lab-springmvc-3-01" />
       </profile>
       <profile name="Annotation profile for lab-2-mapstruct-demo" enabled="true">
@@ -125,6 +126,7 @@
       <module name="lab-8-webflux-01" options="-parameters" />
       <module name="lab-8-webflux-02" options="-parameters" />
       <module name="lab-8-webflux-mongodb" options="-parameters" />
+      <module name="lab-8-webflux-redis" options="-parameters" />
       <module name="lab-springmvc-3-01" options="-parameters" />
       <module name="lab-springmvc-3-02" options="-parameters" />
       <module name="lab1" options="" />

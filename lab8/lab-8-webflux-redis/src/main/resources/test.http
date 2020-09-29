@@ -1,0 +1,9 @@
+POST http://localhost:8080/users/v2/set
+Content-Type: application/json
+
+{"id": 1,"name": "lal1","gender": 1}
+
+###
+GET http://localhost:8080/users/get
+
+###

@@ -34,6 +34,7 @@
         <option value="$PROJECT_DIR$/lab8/pom.xml" />
         <option value="$PROJECT_DIR$/lab8/lab-8-webflux-02/pom.xml" />
         <option value="$PROJECT_DIR$/lab8/lab-8-webflux-mongodb/pom.xml" />
+        <option value="$PROJECT_DIR$/lab8/lab-8-webflux-redis/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

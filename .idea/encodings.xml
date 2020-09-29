@@ -20,5 +20,6 @@
     <file url="file://$PROJECT_DIR$/lab8/lab-8-webflux-01/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lab8/lab-8-webflux-02/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lab8/lab-8-webflux-mongodb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab8/lab-8-webflux-redis/src/main/java" charset="UTF-8" />
   </component>
 </project>
