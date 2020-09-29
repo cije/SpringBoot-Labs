@@ -1,0 +1,6 @@
+GET http://localhost:8080/users/list
+
+###
+POST localhost:8080/users/add
+{"username":"username2","password","password2"}
+
