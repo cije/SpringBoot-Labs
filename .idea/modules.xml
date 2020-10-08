@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/lab9/lab-09-springsecurity-demo/lab-09-springsecurity-demo.iml" filepath="$PROJECT_DIR$/lab9/lab-09-springsecurity-demo/lab-09-springsecurity-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab9/lab-09-springsecurity-demo-role/lab-09-springsecurity-demo-role.iml" filepath="$PROJECT_DIR$/lab9/lab-09-springsecurity-demo-role/lab-09-springsecurity-demo-role.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab1/lab-1-demo/lab-1-demo.iml" filepath="$PROJECT_DIR$/lab1/lab-1-demo/lab-1-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab1/lab-1-demo-profiles/lab-1-demo-profiles.iml" filepath="$PROJECT_DIR$/lab1/lab-1-demo-profiles/lab-1-demo-profiles.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab2/lab-2-mapstruct-demo/lab-2-mapstruct-demo.iml" filepath="$PROJECT_DIR$/lab2/lab-2-mapstruct-demo/lab-2-mapstruct-demo.iml" />
@@ -30,6 +32,7 @@
       <module fileurl="file://$PROJECT_DIR$/lab6/lab6.iml" filepath="$PROJECT_DIR$/lab6/lab6.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab7/lab7.iml" filepath="$PROJECT_DIR$/lab7/lab7.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab8/lab8.iml" filepath="$PROJECT_DIR$/lab8/lab8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab9/lab9.iml" filepath="$PROJECT_DIR$/lab9/lab9.iml" />
     </modules>
   </component>
 </project>

@@ -38,6 +38,8 @@
         <option value="$PROJECT_DIR$/lab9/pom.xml" />
         <option value="$PROJECT_DIR$/lab9/lab-09-springsecurity-demo/pom.xml" />
         <option value="$PROJECT_DIR$/lab9/lab-09-springsecurity-demo-role/pom.xml" />
+        <option value="$PROJECT_DIR$/lab10/pom.xml" />
+        <option value="$PROJECT_DIR$/lab10/lab-10-shiro-demo/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
@@ -70,6 +72,9 @@
         <option value="$PROJECT_DIR$/lab8/lab-8-webflux-mongodb/pom.xml" />
         <option value="$PROJECT_DIR$/lab8/lab-8-webflux-redis/pom.xml" />
         <option value="$PROJECT_DIR$/lab8/pom.xml" />
+        <option value="$PROJECT_DIR$/lab9/lab-09-springsecurity-demo-role/pom.xml" />
+        <option value="$PROJECT_DIR$/lab9/lab-09-springsecurity-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/lab9/pom.xml" />
       </set>
     </option>
   </component>

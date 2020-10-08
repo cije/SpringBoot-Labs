@@ -17,10 +17,12 @@
         <module name="lab-09-springsecurity-demo" />
         <module name="lab-09-springsecurity-demo-role" />
         <module name="lab-1-demo-profiles" />
+        <module name="lab-10-shiro-demo" />
         <module name="lab-6-02" />
         <module name="lab-4-validation-01" />
         <module name="lab-6-01" />
         <module name="lab-6-03" />
+        <module name="lab10" />
         <module name="lab3" />
         <module name="lab4" />
         <module name="lab-5-apidoc-swagger" />
@@ -81,6 +83,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="lab-09-springsecurity-demo" target="1.8" />
+      <module name="lab-09-springsecurity-demo-role" target="1.8" />
       <module name="lab-1-demo" target="1.8" />
       <module name="lab-1-demo-profiles" target="1.8" />
       <module name="lab-2-mapstruct-demo" target="1.8" />
@@ -113,6 +117,7 @@
       <module name="lab6" target="1.8" />
       <module name="lab7" target="1.8" />
       <module name="lab8" target="1.8" />
+      <module name="lab9" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -121,6 +126,7 @@
       <module name="lab-09-springsecurity-demo-role" options="-parameters" />
       <module name="lab-1-demo" options="-parameters" />
       <module name="lab-1-demo-profiles" options="-parameters" />
+      <module name="lab-10-shiro-demo" options="-parameters" />
       <module name="lab-2-mapstruct-demo" options="-parameters" />
       <module name="lab-2-mapstruct-demo-lombok" options="-parameters" />
       <module name="lab-4-validation-01" options="-parameters" />
