@@ -21,6 +21,7 @@
         <module name="lab-6-02" />
         <module name="lab-4-validation-01" />
         <module name="lab-6-01" />
+        <module name="lab11" />
         <module name="lab-6-03" />
         <module name="lab10" />
         <module name="lab3" />
@@ -28,6 +29,7 @@
         <module name="lab-5-apidoc-swagger" />
         <module name="lab-8-webflux-02" />
         <module name="lab1" />
+        <module name="lab-11-mail" />
         <module name="lab2" />
         <module name="lab-8-webflux-01" />
         <module name="lab7" />
@@ -127,6 +129,7 @@
       <module name="lab-1-demo" options="-parameters" />
       <module name="lab-1-demo-profiles" options="-parameters" />
       <module name="lab-10-shiro-demo" options="-parameters" />
+      <module name="lab-11-mail" options="-parameters" />
       <module name="lab-2-mapstruct-demo" options="-parameters" />
       <module name="lab-2-mapstruct-demo-lombok" options="-parameters" />
       <module name="lab-4-validation-01" options="-parameters" />

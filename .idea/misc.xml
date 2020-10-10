@@ -40,6 +40,8 @@
         <option value="$PROJECT_DIR$/lab9/lab-09-springsecurity-demo-role/pom.xml" />
         <option value="$PROJECT_DIR$/lab10/pom.xml" />
         <option value="$PROJECT_DIR$/lab10/lab-10-shiro-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/lab11/pom.xml" />
+        <option value="$PROJECT_DIR$/lab11/lab-11-mail/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
