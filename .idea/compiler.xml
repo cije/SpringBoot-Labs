@@ -46,6 +46,7 @@
       <module name="lab-12-datasource-pool-druid-single" options="-parameters" />
       <module name="lab-12-datasource-pool-hikaricp-multiple" options="-parameters" />
       <module name="lab-12-datasource-pool-hikaricp-single" options="-parameters" />
+      <module name="lab-13-mybatis-xml" options="-parameters" />
       <module name="lab-2-mapstruct-demo" options="-parameters" />
       <module name="lab-2-mapstruct-demo-lombok" options="-parameters" />
       <module name="lab-4-validation-01" options="-parameters" />

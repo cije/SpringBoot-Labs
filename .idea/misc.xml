@@ -47,6 +47,8 @@
         <option value="$PROJECT_DIR$/lab12/lab-12-datasource-pool-hikaricp-multiple/pom.xml" />
         <option value="$PROJECT_DIR$/lab12/lab-12-datasource-pool-druid-single/pom.xml" />
         <option value="$PROJECT_DIR$/lab12/lab-12-datasource-pool-druid-multiple/pom.xml" />
+        <option value="$PROJECT_DIR$/lab13/pom.xml" />
+        <option value="$PROJECT_DIR$/lab13/lab-13-mybatis-xml/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
