@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/lab9/lab-09-springsecurity-demo-role/lab-09-springsecurity-demo-role.iml" filepath="$PROJECT_DIR$/lab9/lab-09-springsecurity-demo-role/lab-09-springsecurity-demo-role.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab1/lab-1-demo/lab-1-demo.iml" filepath="$PROJECT_DIR$/lab1/lab-1-demo/lab-1-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab1/lab-1-demo-profiles/lab-1-demo-profiles.iml" filepath="$PROJECT_DIR$/lab1/lab-1-demo-profiles/lab-1-demo-profiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab10/lab-10-shiro-demo/lab-10-shiro-demo.iml" filepath="$PROJECT_DIR$/lab10/lab-10-shiro-demo/lab-10-shiro-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab11/lab-11-mail/lab-11-mail.iml" filepath="$PROJECT_DIR$/lab11/lab-11-mail/lab-11-mail.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab2/lab-2-mapstruct-demo/lab-2-mapstruct-demo.iml" filepath="$PROJECT_DIR$/lab2/lab-2-mapstruct-demo/lab-2-mapstruct-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab2/lab-2-mapstruct-demo-lombok/lab-2-mapstruct-demo-lombok.iml" filepath="$PROJECT_DIR$/lab2/lab-2-mapstruct-demo-lombok/lab-2-mapstruct-demo-lombok.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab4/lab-4-validation-01/lab-4-validation-01.iml" filepath="$PROJECT_DIR$/lab4/lab-4-validation-01/lab-4-validation-01.iml" />
@@ -25,6 +27,8 @@
       <module fileurl="file://$PROJECT_DIR$/lab1/lab1.iml" filepath="$PROJECT_DIR$/lab1/lab1.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab1/lab1-demo-configname/lab1-demo-configname.iml" filepath="$PROJECT_DIR$/lab1/lab1-demo-configname/lab1-demo-configname.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab1/lab1-demo-jasypt/lab1-demo-jasypt.iml" filepath="$PROJECT_DIR$/lab1/lab1-demo-jasypt/lab1-demo-jasypt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab10/lab10.iml" filepath="$PROJECT_DIR$/lab10/lab10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab11/lab11.iml" filepath="$PROJECT_DIR$/lab11/lab11.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab2/lab2.iml" filepath="$PROJECT_DIR$/lab2/lab2.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab3/lab3.iml" filepath="$PROJECT_DIR$/lab3/lab3.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab4/lab4.iml" filepath="$PROJECT_DIR$/lab4/lab4.iml" />

@@ -11,6 +11,7 @@
         <module name="lab-7-distributed-session-01" />
         <module name="lab1-demo-configname" />
         <module name="lab-8-webflux-redis" />
+        <module name="lab-12-datasource-pool-hikaricp-multiple" />
         <module name="lab-8-webflux-mongodb" />
         <module name="lab1-demo-jasypt" />
         <module name="lab-1-demo" />
@@ -20,6 +21,7 @@
         <module name="lab-10-shiro-demo" />
         <module name="lab-6-02" />
         <module name="lab-4-validation-01" />
+        <module name="lab12" />
         <module name="lab-6-01" />
         <module name="lab11" />
         <module name="lab-6-03" />
@@ -34,6 +36,7 @@
         <module name="lab-8-webflux-01" />
         <module name="lab7" />
         <module name="lab-5-apidoc-swagger-knife4j" />
+        <module name="lab-12-datasource-pool-hikaricp-single" />
         <module name="lab5" />
         <module name="lab-springmvc-3-02" />
         <module name="lab6" />
@@ -89,6 +92,8 @@
       <module name="lab-09-springsecurity-demo-role" target="1.8" />
       <module name="lab-1-demo" target="1.8" />
       <module name="lab-1-demo-profiles" target="1.8" />
+      <module name="lab-10-shiro-demo" target="1.8" />
+      <module name="lab-11-mail" target="1.8" />
       <module name="lab-2-mapstruct-demo" target="1.8" />
       <module name="lab-2-mapstruct-demo-lombok" target="1.8" />
       <module name="lab-4-validation-01" target="1.8" />
@@ -112,6 +117,8 @@
       <module name="lab1" target="1.8" />
       <module name="lab1-demo-configname" target="1.8" />
       <module name="lab1-demo-jasypt" target="1.8" />
+      <module name="lab10" target="1.8" />
+      <module name="lab11" target="1.8" />
       <module name="lab2" target="1.8" />
       <module name="lab3" target="1.8" />
       <module name="lab4" target="1.8" />
@@ -130,6 +137,8 @@
       <module name="lab-1-demo-profiles" options="-parameters" />
       <module name="lab-10-shiro-demo" options="-parameters" />
       <module name="lab-11-mail" options="-parameters" />
+      <module name="lab-12-datasource-pool-hikaricp-multiple" options="-parameters" />
+      <module name="lab-12-datasource-pool-hikaricp-single" options="-parameters" />
       <module name="lab-2-mapstruct-demo" options="-parameters" />
       <module name="lab-2-mapstruct-demo-lombok" options="-parameters" />
       <module name="lab-4-validation-01" options="-parameters" />
