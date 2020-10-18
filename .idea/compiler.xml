@@ -3,10 +3,28 @@
   <component name="CompilerConfiguration">
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lab13" />
+        <module name="lab-13-mybatis-annotation" />
+        <module name="lab10" />
+        <module name="lab-13-mybatis-xml" />
+        <module name="lab-13-mybatis-plus" />
+        <module name="lab-10-shiro-demo" />
+      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="lab-09-springsecurity-demo" target="1.8" />
+      <module name="lab-09-springsecurity-demo-role" target="1.8" />
       <module name="lab-1-demo" target="1.8" />
       <module name="lab-1-demo-profiles" target="1.8" />
+      <module name="lab-11-mail" target="1.8" />
+      <module name="lab-12-datasource-pool-druid-multiple" target="1.8" />
+      <module name="lab-12-datasource-pool-druid-single" target="1.8" />
+      <module name="lab-12-datasource-pool-hikaricp-multiple" target="1.8" />
+      <module name="lab-12-datasource-pool-hikaricp-single" target="1.8" />
       <module name="lab-2-mapstruct-demo" target="1.8" />
       <module name="lab-2-mapstruct-demo-lombok" target="1.8" />
       <module name="lab-4-validation-01" target="1.8" />
@@ -21,17 +39,25 @@
       <module name="lab-7-distributed-session-springsecurity" target="1.8" />
       <module name="lab-7-distributed-session-springsecurity.main" target="1.8" />
       <module name="lab-7-distributed-session-springsecurity.test" target="1.8" />
+      <module name="lab-8-webflux-01" target="1.8" />
+      <module name="lab-8-webflux-02" target="1.8" />
+      <module name="lab-8-webflux-mongodb" target="1.8" />
+      <module name="lab-8-webflux-redis" target="1.8" />
       <module name="lab-springmvc-3-01" target="1.8" />
       <module name="lab-springmvc-3-02" target="1.8" />
       <module name="lab1" target="1.8" />
       <module name="lab1-demo-configname" target="1.8" />
       <module name="lab1-demo-jasypt" target="1.8" />
+      <module name="lab11" target="1.8" />
+      <module name="lab12" target="1.8" />
       <module name="lab2" target="1.8" />
       <module name="lab3" target="1.8" />
       <module name="lab4" target="1.8" />
       <module name="lab5" target="1.8" />
       <module name="lab6" target="1.8" />
       <module name="lab7" target="1.8" />
+      <module name="lab8" target="1.8" />
+      <module name="lab9" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -46,6 +72,8 @@
       <module name="lab-12-datasource-pool-druid-single" options="-parameters" />
       <module name="lab-12-datasource-pool-hikaricp-multiple" options="-parameters" />
       <module name="lab-12-datasource-pool-hikaricp-single" options="-parameters" />
+      <module name="lab-13-mybatis-annotation" options="-parameters" />
+      <module name="lab-13-mybatis-plus" options="-parameters" />
       <module name="lab-13-mybatis-xml" options="-parameters" />
       <module name="lab-2-mapstruct-demo" options="-parameters" />
       <module name="lab-2-mapstruct-demo-lombok" options="-parameters" />
