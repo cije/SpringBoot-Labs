@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: log4j2-application # 应用名

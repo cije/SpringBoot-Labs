@@ -46,6 +46,11 @@
         <option value="$PROJECT_DIR$/lab13/lab-13-mybatis-xml/pom.xml" />
         <option value="$PROJECT_DIR$/lab13/lab-13-mybatis-annotation/pom.xml" />
         <option value="$PROJECT_DIR$/lab13/lab-13-mybatis-plus/pom.xml" />
+        <option value="$PROJECT_DIR$/lab12/pom.xml" />
+        <option value="$PROJECT_DIR$/lab14/pom.xml" />
+        <option value="$PROJECT_DIR$/lab14/lab-14-logging-logback/pom.xml" />
+        <option value="$PROJECT_DIR$/lab14/lab-14-logging-log4j2/pom.xml" />
+        <option value="$PROJECT_DIR$/lab14/lab-14-logging-aop/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

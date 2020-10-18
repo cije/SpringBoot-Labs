@@ -3,17 +3,6 @@
   <component name="CompilerConfiguration">
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
-      <profile name="Maven default annotation processors profile" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="lab13" />
-        <module name="lab-13-mybatis-annotation" />
-        <module name="lab10" />
-        <module name="lab-13-mybatis-xml" />
-        <module name="lab-13-mybatis-plus" />
-        <module name="lab-10-shiro-demo" />
-      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="lab-09-springsecurity-demo" target="1.8" />
@@ -49,7 +38,6 @@
       <module name="lab1-demo-configname" target="1.8" />
       <module name="lab1-demo-jasypt" target="1.8" />
       <module name="lab11" target="1.8" />
-      <module name="lab12" target="1.8" />
       <module name="lab2" target="1.8" />
       <module name="lab3" target="1.8" />
       <module name="lab4" target="1.8" />
@@ -75,6 +63,10 @@
       <module name="lab-13-mybatis-annotation" options="-parameters" />
       <module name="lab-13-mybatis-plus" options="-parameters" />
       <module name="lab-13-mybatis-xml" options="-parameters" />
+      <module name="lab-14-logging-aop" options="-parameters" />
+      <module name="lab-14-logging-demo" options="-parameters" />
+      <module name="lab-14-logging-log4j2" options="-parameters" />
+      <module name="lab-14-logging-logback" options="-parameters" />
       <module name="lab-2-mapstruct-demo" options="-parameters" />
       <module name="lab-2-mapstruct-demo-lombok" options="-parameters" />
       <module name="lab-4-validation-01" options="-parameters" />

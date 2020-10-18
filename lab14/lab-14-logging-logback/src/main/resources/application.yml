@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: logback-application # 应用名
+  profiles:
+    active: prod
