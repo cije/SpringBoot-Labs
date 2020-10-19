@@ -3,6 +3,98 @@
   <component name="CompilerConfiguration">
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lab-7-distributed-session-02" />
+        <module name="lab-7-distributed-session-01" />
+        <module name="lab1-demo-configname" />
+        <module name="lab-8-webflux-redis" />
+        <module name="lab-8-webflux-mongodb" />
+        <module name="lab1-demo-jasypt" />
+        <module name="lab-14-logging-aop" />
+        <module name="lab-1-demo" />
+        <module name="lab-09-springsecurity-demo" />
+        <module name="lab-09-springsecurity-demo-role" />
+        <module name="lab-15-cache-ehcache" />
+        <module name="lab-13-mybatis-annotation" />
+        <module name="lab-13-mybatis-xml" />
+        <module name="lab-14-logging-log4j2" />
+        <module name="lab-13-mybatis-plus" />
+        <module name="lab-1-demo-profiles" />
+        <module name="lab-10-shiro-demo" />
+        <module name="lab-15-cache-redis" />
+        <module name="lab15" />
+        <module name="lab-6-02" />
+        <module name="lab13" />
+        <module name="lab-4-validation-01" />
+        <module name="lab-14-logging-logback" />
+        <module name="lab12" />
+        <module name="lab-6-01" />
+        <module name="lab11" />
+        <module name="lab-6-03" />
+        <module name="lab10" />
+        <module name="lab3" />
+        <module name="lab4" />
+        <module name="lab-5-apidoc-swagger" />
+        <module name="lab-8-webflux-02" />
+        <module name="lab1" />
+        <module name="lab-11-mail" />
+        <module name="lab2" />
+        <module name="lab-14-logging-demo" />
+        <module name="lab-8-webflux-01" />
+        <module name="lab7" />
+        <module name="lab-5-apidoc-swagger-knife4j" />
+        <module name="lab5" />
+        <module name="lab-springmvc-3-02" />
+        <module name="lab6" />
+        <module name="lab-springmvc-3-01" />
+        <module name="lab9" />
+      </profile>
+      <profile name="Annotation profile for lab-2-mapstruct-demo" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct-processor/1.3.1.Final/mapstruct-processor-1.3.1.Final.jar" />
+          <entry name="$MAVEN_REPOSITORY$/com/jolira/hickory/1.0.0/hickory-1.0.0.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct/1.3.1.Final/mapstruct-1.3.1.Final.jar" />
+          <entry name="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/assertj/assertj-core/3.11.1/assertj-core-3.11.1.jar" />
+          <entry name="$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0.jar" />
+          <entry name="$MAVEN_REPOSITORY$/com/puppycrawl/tools/checkstyle/8.14/checkstyle-8.14.jar" />
+          <entry name="$MAVEN_REPOSITORY$/javax/inject/javax.inject/1/javax.inject-1.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/codehaus/plexus/plexus-container-default/1.6/plexus-container-default-1.6.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/springframework/spring-test/4.0.3.RELEASE/spring-test-4.0.3.RELEASE.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.0.3.RELEASE/spring-beans-4.0.3.RELEASE.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.3.RELEASE/spring-context-4.0.3.RELEASE.jar" />
+          <entry name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.9/joda-time-2.9.jar" />
+        </processorPath>
+        <module name="lab-2-mapstruct-demo" />
+      </profile>
+      <profile name="Annotation profile for lab-2-mapstruct-demo-lombok" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct-processor/1.3.1.Final/mapstruct-processor-1.3.1.Final.jar" />
+          <entry name="$MAVEN_REPOSITORY$/com/jolira/hickory/1.0.0/hickory-1.0.0.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct/1.3.1.Final/mapstruct-1.3.1.Final.jar" />
+          <entry name="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/assertj/assertj-core/3.11.1/assertj-core-3.11.1.jar" />
+          <entry name="$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0.jar" />
+          <entry name="$MAVEN_REPOSITORY$/com/puppycrawl/tools/checkstyle/8.14/checkstyle-8.14.jar" />
+          <entry name="$MAVEN_REPOSITORY$/javax/inject/javax.inject/1/javax.inject-1.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/codehaus/plexus/plexus-container-default/1.6/plexus-container-default-1.6.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/springframework/spring-test/4.0.3.RELEASE/spring-test-4.0.3.RELEASE.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.0.3.RELEASE/spring-beans-4.0.3.RELEASE.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.0.3.RELEASE/spring-context-4.0.3.RELEASE.jar" />
+          <entry name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.9/joda-time-2.9.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.12/lombok-1.18.12.jar" />
+        </processorPath>
+        <module name="lab-2-mapstruct-demo-lombok" />
+      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="lab-09-springsecurity-demo" target="1.8" />
@@ -80,6 +172,7 @@
       <module name="lab-14-logging-log4j2" options="-parameters" />
       <module name="lab-14-logging-logback" options="-parameters" />
       <module name="lab-15-cache-ehcache" options="-parameters" />
+      <module name="lab-15-cache-redis" options="-parameters" />
       <module name="lab-2-mapstruct-demo" options="-parameters" />
       <module name="lab-2-mapstruct-demo-lombok" options="-parameters" />
       <module name="lab-4-validation-01" options="-parameters" />
