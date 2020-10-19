@@ -51,6 +51,8 @@
         <option value="$PROJECT_DIR$/lab14/lab-14-logging-logback/pom.xml" />
         <option value="$PROJECT_DIR$/lab14/lab-14-logging-log4j2/pom.xml" />
         <option value="$PROJECT_DIR$/lab14/lab-14-logging-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/lab15/pom.xml" />
+        <option value="$PROJECT_DIR$/lab15/lab-15-cache-ehcache/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
@@ -60,8 +62,20 @@
         <option value="$PROJECT_DIR$/lab1/lab1-demo-configname/pom.xml" />
         <option value="$PROJECT_DIR$/lab1/lab1-demo-jasypt/pom.xml" />
         <option value="$PROJECT_DIR$/lab1/pom.xml" />
+        <option value="$PROJECT_DIR$/lab10/lab-10-shiro-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/lab10/pom.xml" />
         <option value="$PROJECT_DIR$/lab11/lab-11-mail/pom.xml" />
         <option value="$PROJECT_DIR$/lab11/pom.xml" />
+        <option value="$PROJECT_DIR$/lab12/pom.xml" />
+        <option value="$PROJECT_DIR$/lab13/lab-13-mybatis-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/lab13/lab-13-mybatis-plus/pom.xml" />
+        <option value="$PROJECT_DIR$/lab13/lab-13-mybatis-xml/pom.xml" />
+        <option value="$PROJECT_DIR$/lab13/pom.xml" />
+        <option value="$PROJECT_DIR$/lab14/lab-14-logging-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/lab14/lab-14-logging-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/lab14/lab-14-logging-log4j2/pom.xml" />
+        <option value="$PROJECT_DIR$/lab14/lab-14-logging-logback/pom.xml" />
+        <option value="$PROJECT_DIR$/lab14/pom.xml" />
         <option value="$PROJECT_DIR$/lab2/lab-2-mapstruct-demo-lombok/pom.xml" />
         <option value="$PROJECT_DIR$/lab2/lab-2-mapstruct-demo/pom.xml" />
         <option value="$PROJECT_DIR$/lab2/pom.xml" />

@@ -9,11 +9,19 @@
       <module name="lab-09-springsecurity-demo-role" target="1.8" />
       <module name="lab-1-demo" target="1.8" />
       <module name="lab-1-demo-profiles" target="1.8" />
+      <module name="lab-10-shiro-demo" target="1.8" />
       <module name="lab-11-mail" target="1.8" />
       <module name="lab-12-datasource-pool-druid-multiple" target="1.8" />
       <module name="lab-12-datasource-pool-druid-single" target="1.8" />
       <module name="lab-12-datasource-pool-hikaricp-multiple" target="1.8" />
       <module name="lab-12-datasource-pool-hikaricp-single" target="1.8" />
+      <module name="lab-13-mybatis-annotation" target="1.8" />
+      <module name="lab-13-mybatis-plus" target="1.8" />
+      <module name="lab-13-mybatis-xml" target="1.8" />
+      <module name="lab-14-logging-aop" target="1.8" />
+      <module name="lab-14-logging-demo" target="1.8" />
+      <module name="lab-14-logging-log4j2" target="1.8" />
+      <module name="lab-14-logging-logback" target="1.8" />
       <module name="lab-2-mapstruct-demo" target="1.8" />
       <module name="lab-2-mapstruct-demo-lombok" target="1.8" />
       <module name="lab-4-validation-01" target="1.8" />
@@ -37,7 +45,11 @@
       <module name="lab1" target="1.8" />
       <module name="lab1-demo-configname" target="1.8" />
       <module name="lab1-demo-jasypt" target="1.8" />
+      <module name="lab10" target="1.8" />
       <module name="lab11" target="1.8" />
+      <module name="lab12" target="1.8" />
+      <module name="lab13" target="1.8" />
+      <module name="lab14" target="1.8" />
       <module name="lab2" target="1.8" />
       <module name="lab3" target="1.8" />
       <module name="lab4" target="1.8" />
@@ -67,6 +79,7 @@
       <module name="lab-14-logging-demo" options="-parameters" />
       <module name="lab-14-logging-log4j2" options="-parameters" />
       <module name="lab-14-logging-logback" options="-parameters" />
+      <module name="lab-15-cache-ehcache" options="-parameters" />
       <module name="lab-2-mapstruct-demo" options="-parameters" />
       <module name="lab-2-mapstruct-demo-lombok" options="-parameters" />
       <module name="lab-4-validation-01" options="-parameters" />

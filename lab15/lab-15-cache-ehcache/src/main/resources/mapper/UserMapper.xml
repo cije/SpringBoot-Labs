@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.ce.lab15cacheehcache.mapper.UserMapper">
+
+    <sql id="FIELDS">
+        id,username,password,deleted,create_time
+    </sql>
+
+    <delete id="deleteById" parameterType="Integer">
+        delete
+        from users
+        where id = #{id}
+    </delete>
+
+    <select id="selectById" resultType="com.ce.lab15cacheehcache.dataobject.UserDO" parameterType="Integer">
+        select
+        <include refid="FIELDS"/>
+        from users
+        where id= #{id}
+    </select>
+
+</mapper>
