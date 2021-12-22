@@ -2,56 +2,37 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.ce</groupId>
-    <artifactId>lab16</artifactId>
+    <artifactId>lab16-grpc-demo-user-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>lab16</name>
-    <description>lab16</description>
-    <packaging>pom</packaging>
+    <name>lab16-grpc-demo-user-service</name>
+    <description>lab16-grpc-demo-user-service</description>
+    <parent>
+        <artifactId>lab16-grpc-demo</artifactId>
+        <groupId>com.ce</groupId>
+        <version>0.0.1-SNAPSHOT</version>
+    </parent>
     <properties>
+        <!-- 依赖相关配置 -->
+        <io.grpc.version>1.30.0</io.grpc.version>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <spring-boot.version>2.3.7.RELEASE</spring-boot.version>
     </properties>
-    <modules>
-        <module>lab16-grpc-demo</module>
-    </modules>
-    <dependencies>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter</artifactId>
-        </dependency>
 
+    <dependencies>
+        <!-- 引入 gRPC Netty 依赖，因为使用它作为网络库 -->
         <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-            <optional>true</optional>
+            <groupId>io.grpc</groupId>
+            <artifactId>grpc-netty</artifactId>
+            <version>${io.grpc.version}</version>
         </dependency>
         <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-test</artifactId>
-            <scope>test</scope>
-            <exclusions>
-                <exclusion>
-                    <groupId>org.junit.vintage</groupId>
-                    <artifactId>junit-vintage-engine</artifactId>
-                </exclusion>
-            </exclusions>
+            <groupId>com.ce</groupId>
+            <artifactId>lab16-grpc-demo-user-service-api</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
-
-    <dependencyManagement>
-        <dependencies>
-            <dependency>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-dependencies</artifactId>
-                <version>${spring-boot.version}</version>
-                <type>pom</type>
-                <scope>import</scope>
-            </dependency>
-        </dependencies>
-    </dependencyManagement>
 
     <build>
         <plugins>
@@ -70,7 +51,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>2.3.7.RELEASE</version>
                 <configuration>
-                    <mainClass>com.ce.lab16.Lab16Application</mainClass>
+                    <mainClass>com.ce.lab16grpcdemouserservice.Lab16GrpcDemoUserServiceApplication</mainClass>
                 </configuration>
                 <executions>
                     <execution>

@@ -1,0 +1,5 @@
+###
+GET http://localhost:10086/demo/create?name=yudaoyuanma&gender=1
+
+###
+GET http://localhost:10086/demo/get?id=1640163942
