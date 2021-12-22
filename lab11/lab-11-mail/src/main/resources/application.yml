@@ -1,0 +1,18 @@
+spring:
+  mail:
+    default-encoding: UTF-8
+    host: smtp.163.com
+    username: an37500@163.com
+    password: cuijie1998
+    port: 465
+
+    properties:
+      from: an37500@163.com
+      mail:
+        smtp:
+          socketFactory:
+            class: javax.net.ssl.SSLSocketFactory
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 20MB
