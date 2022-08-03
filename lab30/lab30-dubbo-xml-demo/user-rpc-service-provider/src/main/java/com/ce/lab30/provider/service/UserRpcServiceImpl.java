@@ -1,6 +1,7 @@
 package com.ce.lab30.provider.service;
 
 import com.ce.lab30.api.UserRpcService;
+import com.ce.lab30.dto.UserAddDTO;
 import com.ce.lab30.dto.UserDTO;
 import org.springframework.stereotype.Service;
 
@@ -18,5 +19,10 @@ public class UserRpcServiceImpl implements UserRpcService {
         // 1-男 2-女
         userDTO.setGender(id % 2 + 1);
         return userDTO;
+    }
+
+    @Override
+    public Integer add(UserAddDTO addDTO) {
+        return (int) (System.currentTimeMillis() / 1000);
     }
 }

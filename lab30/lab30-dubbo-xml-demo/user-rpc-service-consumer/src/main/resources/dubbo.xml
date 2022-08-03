@@ -9,6 +9,6 @@
 
     <!-- 服务消费者引用服务配置 -->
     <dubbo:reference id="userService" interface="com.ce.lab30.api.UserRpcService"
-                     version="${dubbo.consumer.UserRpcService.version}"/>
+                     version="${dubbo.consumer.UserRpcService.version}" validation="true"/>
 
 </beans>
