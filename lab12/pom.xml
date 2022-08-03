@@ -4,10 +4,20 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.ce</groupId>
     <artifactId>lab12</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+    <parent>
+        <artifactId>SpringBoot-Labs</artifactId>
+        <version>1.0-SNAPSHOT</version>
+        <groupId>com.ce</groupId>
+    </parent>
+    <packaging>pom</packaging>
+    <modules>
+        <module>lab-12-datasource-pool-druid-multiple</module>
+        <module>lab-12-datasource-pool-druid-single</module>
+        <module>lab-12-datasource-pool-hikaricp-multiple</module>
+        <module>lab-12-datasource-pool-hikaricp-single</module>
+    </modules>
     <build>
         <plugins>
             <plugin>

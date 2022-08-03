@@ -4,10 +4,19 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.ce</groupId>
     <artifactId>lab15</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <parent>
+        <artifactId>SpringBoot-Labs</artifactId>
+        <version>1.0-SNAPSHOT</version>
+        <groupId>com.ce</groupId>
+    </parent>
+    <packaging>pom</packaging>
 
+    <modules>
+        <module>lab-15-cache-ehcache</module>
+        <module>lab-15-cache-redis</module>
+    </modules>
     <build>
         <plugins>
             <plugin>

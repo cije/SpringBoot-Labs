@@ -4,10 +4,18 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.ce</groupId>
     <artifactId>lab5</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+    <parent>
+        <artifactId>SpringBoot-Labs</artifactId>
+        <version>1.0-SNAPSHOT</version>
+        <groupId>com.ce</groupId>
+    </parent>
+    <packaging>pom</packaging>
+    <modules>
+        <module>lab-5-apidoc-swagger</module>
+        <module>lab-5-apidoc-swagger-knife4j</module>
+    </modules>
     <build>
         <plugins>
             <plugin>
