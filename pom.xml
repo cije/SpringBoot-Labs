@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.ce</groupId>
+    <artifactId>SpringBoot-Labs</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>lab1</module>
+        <module>lab2</module>
+        <module>lab3</module>
+        <module>lab4</module>
+        <module>lab5</module>
+        <module>lab6</module>
+        <module>lab7</module>
+        <module>lab8</module>
+        <module>lab9</module>
+        <module>lab10</module>
+        <module>lab11</module>
+        <module>lab12</module>
+        <module>lab13</module>
+        <module>lab14</module>
+        <module>lab15</module>
+        <module>lab16</module>
+        <module>lab30</module>
+    </modules>
+</project>
